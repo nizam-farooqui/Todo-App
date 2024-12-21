@@ -11,4 +11,6 @@ Interactive UI with real-time updates.
 Fully responsive design for both desktop and mobile devices.
 
 
-Output:
+Output:https://github.com/user-attachments/assets/73f95fe3-b062-459b-b7ed-a3323911a1de
+
+
